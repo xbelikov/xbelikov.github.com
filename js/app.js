@@ -1,3 +1,3 @@
-document.ready(function() {
-	console.log('app run');
-});
+(function() {
+	angular.module('myModule', ['ui.bootstrap']);
+})();
